@@ -1,0 +1,19 @@
+Start Game
+↓
+Choose Random Word
+↓
+Display Board
+↓
+Player Inputs Letter
+↓
+Check:
+  ├── Is it in word? → Add to correctLetters
+  └── Not in word? → Add to missedLetters
+↓
+Update Board
+↓
+Check Win or Lose
+↓
+If Game Done:
+  ├── Ask to play again
+  └── End or Reset
